@@ -1,0 +1,9 @@
+.productdetail{
+    margin: 0;
+    width: calc(100%-4rem);
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

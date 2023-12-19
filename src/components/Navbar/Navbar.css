@@ -1,0 +1,16 @@
+.navbar{
+    background-color: green;
+    width: calc(100%-1rem);
+    height: 2rem;
+    padding: 0.5rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.h2-navbar{
+    font-size: 1rem;
+    font-weight: normal;
+    color: white;
+}
